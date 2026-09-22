@@ -48,6 +48,13 @@ coverage.xml
 *.cover
 *.py.cover
 .hypothesis/
+
+# Project-specific: landed raw payloads and the local warehouse are
+# generated data, not source.
+data/raw/*
+!data/raw/.gitkeep
+data/*.duckdb
+data/*.duckdb.wal
 .pytest_cache/
 cover/
 

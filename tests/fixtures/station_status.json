@@ -1,0 +1,31 @@
+{
+    "last_updated": 1789726569,
+    "data": {
+        "stations": [
+            {
+                "station_id": "128",
+                "is_installed": 1,
+                "can_rent": 1,
+                "can_return": 0,
+                "num_bikes_available": 10,
+                "num_docks_available": 0
+            },
+            {
+                "station_id": "161",
+                "is_installed": 1,
+                "can_rent": 1,
+                "can_return": 1,
+                "num_bikes_available": 0,
+                "num_docks_available": 18
+            },
+            {
+                "station_id": "208",
+                "is_installed": 1,
+                "can_rent": 1,
+                "can_return": 1,
+                "num_bikes_available": 7,
+                "num_docks_available": 8
+            }
+        ]
+    }
+}

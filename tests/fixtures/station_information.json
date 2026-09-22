@@ -1,0 +1,28 @@
+{
+    "last_updated": 1789726569,
+    "data": {
+        "stations": [
+            {
+                "station_id": "128",
+                "name": "Johnsengjerdet Brygge",
+                "address": "Iversenmarka 5",
+                "lat": 59.902405,
+                "lon": 10.719693,
+                "capacity": 10
+            },
+            {
+                "station_id": "161",
+                "name": "Mikkelsentjernet Torget",
+                "address": "Lieeggen 5F",
+                "lat": 59.923111,
+                "lon": 10.799593,
+                "capacity": 18
+            },
+            {
+                "station_id": "208",
+                "name": "Halvorsenlyngen Brygge",
+                "capacity": 15
+            }
+        ]
+    }
+}
